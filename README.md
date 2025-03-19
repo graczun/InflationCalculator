@@ -20,5 +20,4 @@ Przykladowe uzycie:
             e.printStackTrace();
         }
     }
-}
 
